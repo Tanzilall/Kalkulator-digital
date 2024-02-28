@@ -1,0 +1,58 @@
+body{
+	background: url(img/denji.jpg);
+    background-size:50cm;
+	font-family: sans-serif;
+}
+ 
+.kalkulator{
+	width: 335px;
+	background: #81689D;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #000000;
+}
+ 
+.bil{
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;	
+}
+ 
+.opt{
+	font-size: 16pt;
+	border: none;
+	width: 320px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+ 
+.tombol{
+	background: #16d13f;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	/* border-bottom:4px solid #BF3D3D; */
+}
+
+.hapus{
+	background: #e31818;
+	border-right: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	/* border-bottom:4px solid #BF3D3D; */
+}
+ 
+
+.judul{
+	text-align: center;
+	color: #eee;
+	font-weight: normal;
+}

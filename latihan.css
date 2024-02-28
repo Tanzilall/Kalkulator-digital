@@ -1,0 +1,30 @@
+body{
+	background: url(img/denji.jpg);
+	background-size: 50cm;
+	font-family: sans-serif;
+}
+
+.kalkulator{
+	width: 335px;
+	margin: 100px auto;
+	padding: 10px 20px 10px 10px;
+	border-radius: 10px;
+	background: rgb(96, 0, 192);
+	box-shadow: 10px 20px 50px 20px;
+}
+
+.bil{
+	width: 320px;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 16pt;
+}
+
+.opt{
+	width: 320px;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 16pt;
+}
